@@ -1,7 +1,5 @@
 # Celeste Practice Mod
 Mod of Celeste game. Credits belong to respective owner(s).
-## Cartridge
-Cartridge can be found [here](https://github.com/stevenfelix505/Celeste-Practice-Mod/blob/master/celeste_practice_mod.p8.png)
 ## Additional Controls
 ### CELESTE
 E - Toggle screen shake
@@ -22,3 +20,8 @@ P - Pause menu:
     > "Seed RNG" - Toggles RNG seeding
         > "Seed++" - Increment RNG seed
         > "Seed--" - Decrement RNG seed
+## Downloads
+### Standalone
+a standalone practice mod can be downloaded [here](https://celesteclassic.github.io/downloads.html).
+### Cartridge
+Cartridge can be found [here](https://github.com/stevenfelix505/Celeste-Practice-Mod/blob/master/celeste_practice_mod.p8.png)
