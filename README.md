@@ -1,4 +1,4 @@
-# Celeste Practice Mod
+# [Celeste Practice Mod](https://stevenfelix505.github.io/Celeste-Practice-Mod)
 Mod of Celeste game. Credits belong to respective owner(s).
 ## Additional Controls
 ### CELESTE
