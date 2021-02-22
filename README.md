@@ -22,6 +22,6 @@ P - Pause menu:
         > "Seed--" - Decrement RNG seed
 ## Downloads
 ### Standalone
-A standalone practice mod can be downloaded [here](https://celesteclassic.github.io/downloads.html)
+A standalone practice mod can be downloaded [here](https://stevenfelix505.github.io/Celeste-Practice-Mod/downloads.html)
 ### Cartridge
 Cartridge can be found [here](https://github.com/stevenfelix505/Celeste-Practice-Mod/blob/master/celeste_practice_mod.p8.png)
