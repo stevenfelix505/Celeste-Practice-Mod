@@ -32,6 +32,6 @@ A standalone practice mod can be downloaded below:
 
 [Celeste Practice Mod](https://stevenfelix505.github.io/Celeste-Practice-Mod/downloads.html)
 
-[Celeste 2 Practice Mod](https://stevenfelix505.github.io/Celeste-Practice-Mod/downloads.html)
+[Celeste 2 Practice Mod](https://stevenfelix505.github.io/Celeste-Practice-Mod/downloads2.html)
 ### Cartridge
 Cartridge can be found [here](https://github.com/stevenfelix505/Celeste-Practice-Mod/blob/master/celeste_practice_mod.p8.png)
