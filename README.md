@@ -12,7 +12,7 @@ E - Toggle HUD
 
 D - Toggle BG Music
 
-A - Toggle gemskip (2300m+)
+A - Toggle [gemskip](https://stevenfelix505.github.io/Celeste-Practice-Mod-glossary/#gemskip) (2300m+)
 
 P - Pause menu:
 
