@@ -21,9 +21,11 @@ P - Pause menu:
        > "Seed++" - Increment RNG seed
        > "Seed--" - Decrement RNG seed
 ### CELESTE 2 Practice Mod
-s/f:       previous/next section or checkpoint
-shift+s/f: previous/next section (skips checkpoints)
-e:         select checkpoint to end on
+S/F - Previous/next section or checkpoint
+
+Shift+S/F - Previous/next section (skips checkpoints)
+
+E - Select checkpoint to end on
 ## Downloads
 ### Standalone
 A standalone practice mod can be downloaded [here](https://stevenfelix505.github.io/Celeste-Practice-Mod/downloads.html)
