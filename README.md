@@ -3,7 +3,7 @@ Mod of Celeste game. Credits belong to respective owner(s).
 ## Additional Controls
 ### Celeste
 E - Toggle screen shake
-### [Celeste Practice Mod (v600m)](https://stevenfelix505.github.io/Celeste-Practice-Mod/practice_mod.html)
+### Celeste Practice Mod [(v600m)](https://stevenfelix505.github.io/Celeste-Practice-Mod/practice_mod.html)
 S - Previous level
 
 F - Next level
@@ -20,7 +20,7 @@ P - Pause menu:
     > "Seed RNG"  - Toggles RNG seeding
        > "Seed++" - Increment RNG seed
        > "Seed--" - Decrement RNG seed
-### Celeste 2 Practice Mod
+### Celeste 2 Practice Mod [(v1.0)](https://stevenfelix505.github.io/Celeste-Practice-Mod/cc2_practice_mod_1.1.html)|[(v1.1)](https://stevenfelix505.github.io/Celeste-Practice-Mod/cc2_practice_mod_1.1.html)
 S/F - Previous/next section or checkpoint
 
 Shift+S/F - Previous/next section (skips checkpoints)
