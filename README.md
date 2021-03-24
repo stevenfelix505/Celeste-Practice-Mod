@@ -1,3 +1,5 @@
+[![Stars Badge](https://img.shields.io/github/stars/stevenfelix505/Celeste-Practice-Mod.svg?style=flat&label=Stars)](https://github.com/stevenfelix505/Celeste-Practice-Mod)
+
 # [Celeste Practice Mod](https://stevenfelix505.github.io/Celeste-Practice-Mod)
 Mod of Celeste game. Credits belong to respective owner(s).
 ## Additional Controls
